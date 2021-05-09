@@ -42,7 +42,7 @@ namespace Ejercicio2
                     Console.WriteLine("El Señor: " + Nombre + " Se a Registrado");
                     break;
 
-                default: Console.WriteLine("error en Datos Ingresados en Campo Genero");
+                default: Console.WriteLine("Error no se cumple la condicion en campo genero ");
                     break;
             }
             
